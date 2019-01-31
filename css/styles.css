@@ -297,7 +297,7 @@ iframe[name="google_conversion_frame"] {
 
 .list-responsive {
     background-color: rgba(255, 255, 255, 0.25);
-    border: 1px solid rgba(34, 85, 136, 0.5);
+    border: 1px solid rgba(194, 212, 132, 0.5);
     border-radius: 8px;
     box-shadow: 0 2px 6px -2px rgba(34, 85, 136,.25);
     column-count: 1;
@@ -366,7 +366,7 @@ dd {
 
 a {
     background-color: transparent;
-    color: #0d93f7;
+    color: #96bc33;
     text-decoration: none;
 }
 
