@@ -1487,6 +1487,9 @@ a {
     height: 42px;
     margin: 0;
 }
+    .dude {
+        margin: -15px 0 0 0;
+    }
 
 .phone {
     font-size: 22px;
