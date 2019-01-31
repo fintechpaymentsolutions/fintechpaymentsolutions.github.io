@@ -1626,7 +1626,7 @@ a {
 .form-cover {
     background-color: rgba(64,66,70,.65);
     border-radius: 6px;
-    box-shadow: 0 2px 8px -2px rgba(0,0,0,.5), 0 -2px 0 0 rgb(80, 79, 78), 0 0 0 2px rgba(13, 147, 247, 0.5);
+    box-shadow: 0 2px 8px -2px rgba(0,0,0,.5), 0 -2px 0 0 rgb(80, 79, 78), 0 0 0 2px rgba(150, 188, 51, 0.5);
     color: #fff;
     margin-left: auto;
     margin-right: auto;
